@@ -2010,6 +2010,19 @@ img, svg, video {
         padding-right: 20px;
     }
 
+    /* Esconder logo gigante do hero em celular */
+    .hero-visual {
+        display: none;
+    }
+
+    .hero {
+        padding-bottom: 24px;
+    }
+
+    .hero-content {
+        padding-top: 0;
+    }
+
     .section-header {
         margin-bottom: 40px;
     }
